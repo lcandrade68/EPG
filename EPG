@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo Brasília">
+    <display-name lang="pt">Globo Brasília</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="Globo Minas">
+    <display-name lang="pt">Globo Minas</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <programme start="20210322014000 +0000" stop="20210322023500 +0000" channel="Globo Brasília">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Formação de Paredão Triplo, com indicação do Líder Gil.(n)</desc>
+  </programme>
+  <programme start="20210322023500 +0000" stop="20210322041500 +0000" channel="Globo Brasília">
+    <title lang="pt">Domingo Maior - Batalha Dos Impérios</title>
+    <title lang="en">Tian Jiang Xiong Shi</title>
+    <desc lang="pt">No ano 48 A.C., soldados romanos perdidos peregrinam pela China para encontrar seu caminho. Enquanto isso, o comandante chinês Huo An é tomado por forças que o escravizam.(n)</desc>
+  </programme>
+  <programme start="20210322041500 +0000" stop="20210322055500 +0000" channel="Globo Brasília">
+    <title lang="pt">Cinemaço - Fúria Sobre Rodas</title>
+    <title lang="en">Drive Angry</title>
+    <desc lang="pt">Milton se envolveu com pessoas erradas no passado, foi parar no inferno e acabou tendo sua filha assassinada. Agora, sua neta está das mãos do líder da mesma seita satânica. Chegou a hora de Milton retornar do mundo das trevas para tentar salvá-la e, quem sabe, ter a sua redenção. Em sua jornada para descobrir o paradeiro da criança ele conhece Piper, uma garçonete boa de briga e em busca de aventura. Era o que ele precisava para enfrentar seus inimigos e ainda driblar o Contador, um fiel súdito do diabo disposto a tudo para levá-lo de volta para o príncipe da escuridão.(n)</desc>
+  </programme>
+  <programme start="20210322055500 +0000" stop="20210322070000 +0000" channel="Globo Brasília">
+    <title lang="pt">Corujão I - Sequestro Relâmpago</title>
+    <title lang="en">Sequestro Relâmpago</title>
+    <desc lang="pt">Matheus e Japonês são dois jovens que não são amigos, mas que se juntam para realizar uma série de sequestros na noite de São Paulo. A primeira vítima é Isabel, uma jovem de 21 anos que está saindo de um bar. Os três estão nervosos. Quando encontram o primeiro caixa eletrônico, às 22h, ele está quebrado. Os dois percebem que não conseguirão encontrar outro caixa-eletrônico antes da manhã do dia seguinte. Mantendo Isabel refém, eles dirigem de um lado pro outro pela noite, decidindo o que fazer com ela.(n)</desc>
+  </programme>
+  <programme start="20210322070000 +0000" stop="20210322090000 +0000" channel="Globo Brasília">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210322090000 +0000" stop="20210322113000 +0000" channel="Globo Brasília">
+    <title lang="pt">Bom Dia DF</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia DF, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210322113000 +0000" stop="20210322123000 +0000" channel="Globo Brasília">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210322123000 +0000" stop="20210322134500 +0000" channel="Globo Brasília">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210322134500 +0000" stop="20210322150000 +0000" channel="Globo Brasília">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210322150000 +0000" stop="20210322160000 +0000" channel="Globo Brasília">
+    <title lang="pt">DF1</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210322160000 +0000" stop="20210322162500 +0000" channel="Globo Brasília">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210322162500 +0000" stop="20210322180000 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210322180000 +0000" stop="20210322194000 +0000" channel="Globo Brasília">
+    <title lang="pt">Sessão da Tarde - Noites De Tormenta</title>
+    <title lang="en">Nights in Rodanthe</title>
+    <desc lang="pt">Sofrendo com problemas familiares, Adrienne Willis busca refúgio numa pequena cidade litorânea da Carolina do Norte. Hospedada na pousada de uma amiga, ela conhece Paul Flanner, um médico que está enfrentando uma crise de consciência. Quando uma violenta tempestade se aproxima do local, Adrienne e Paul começam um romance que mudará para sempre suas vidas.(n)</desc>
+  </programme>
+  <programme start="20210322194000 +0000" stop="20210322205500 +0000" channel="Globo Brasília">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Iris faz doação de sangue na tentativa de salvar Camila.(n)</desc>
+  </programme>
+  <programme start="20210322205500 +0000" stop="20210322212500 +0000" channel="Globo Brasília">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Pedro faz serenata para Karina e leva balde d'água na cabeça.(n)</desc>
+  </programme>
+  <programme start="20210322212500 +0000" stop="20210322221000 +0000" channel="Globo Brasília">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Manuela conta para Rodrigo que ele é o pai de Júlia.(n)</desc>
+  </programme>
+  <programme start="20210322221000 +0000" stop="20210322224000 +0000" channel="Globo Brasília">
+    <title lang="pt">DF2</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210322224000 +0000" stop="20210322233000 +0000" channel="Globo Brasília">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Um furacão arrasa Cancún e coloca em risco a vida de Alexia (Deborah Secco), Kyra (Vitória Strada) e Luna (Juliana Paiva).(n)</desc>
+  </programme>
+  <programme start="20210322233000 +0000" stop="20210323002500 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="Globo Brasília">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="Globo Brasília">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="Globo Brasília">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="Globo Brasília">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="Globo Brasília">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="Globo Brasília">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323113000 +0000" channel="Globo Brasília">
+    <title lang="pt">Bom Dia DF</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia DF, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="Globo Brasília">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="Globo Brasília">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="Globo Brasília">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="Globo Brasília">
+    <title lang="pt">DF1</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="Globo Brasília">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="Globo Brasília">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="Globo Brasília">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Orlando provoca Capitu e ela enfia faca na sua mão.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="Globo Brasília">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="Globo Brasília">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="Globo Brasília">
+    <title lang="pt">DF2</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="Globo Brasília">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">A história três mulheres que testemunham um crime e têm suas vidas completamente transformadas.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324004000 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210324004000 +0000" stop="20210324020000 +0000" channel="Globo Brasília">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Escrita por Manuela Dias e com direção artística de José Luiz Villamarim, 'Amor de Mãe' apresenta as histórias de Lurdes, Thelma e Vitória, três mulheres com diferentes trajetórias que se reconhecem no amor pelos filhos.(n)</desc>
+  </programme>
+  <programme start="20210324020000 +0000" stop="20210324030000 +0000" channel="Globo Brasília">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210324030000 +0000" stop="20210324033000 +0000" channel="Globo Brasília">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">A série faz uma homenagem à obra do autor, diretor e dramaturgo Domingos Oliveira. Adaptada aos dias de hoje, a história traz reflexões filosóficas sobre a vida, o amor e a morte com um humor inteligente e refinado.(n)</desc>
+  </programme>
+  <programme start="20210324033000 +0000" stop="20210324041000 +0000" channel="Globo Brasília">
+    <title lang="pt">Profissão Repórter</title>
+    <desc lang="pt">Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.(n)</desc>
+  </programme>
+  <programme start="20210324041000 +0000" stop="20210324050000 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210324050000 +0000" stop="20210324054000 +0000" channel="Globo Brasília">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20210324054000 +0000" stop="20210324070000 +0000" channel="Globo Brasília">
+    <title lang="pt">Corujão I - O Atirador - Apontando Para a Morte</title>
+    <title lang="en">The Marksman</title>
+    <desc lang="pt">O atirador tem como missão resgatar uma planta de usina nuclear da Chechenia antes que terroristas acionem um reator atômico. Ao chegar ao local, ele indica o alvo para que um míssil norte-americano o destrua. Mas, quando descobre que o míssil é que acionará o reator, ele percebe que foi enganado e precisa agir rápido para evitar a morte de milhões de pessoas.(n)</desc>
+  </programme>
+  <programme start="20210324070000 +0000" stop="20210324090000 +0000" channel="Globo Brasília">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210324090000 +0000" stop="20210324113000 +0000" channel="Globo Brasília">
+    <title lang="pt">Bom Dia DF</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia DF, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210324113000 +0000" stop="20210324123000 +0000" channel="Globo Brasília">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210324123000 +0000" stop="20210324134500 +0000" channel="Globo Brasília">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210324134500 +0000" stop="20210324150000 +0000" channel="Globo Brasília">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210324150000 +0000" stop="20210324160000 +0000" channel="Globo Brasília">
+    <title lang="pt">DF1</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210324160000 +0000" stop="20210324162500 +0000" channel="Globo Brasília">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210324162500 +0000" stop="20210324180000 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210324180000 +0000" stop="20210324195000 +0000" channel="Globo Brasília">
+    <title lang="pt">Sessão da Tarde - A Última Palavra</title>
+    <title lang="en">The Last Word</title>
+    <desc lang="pt">Uma mulher de negócios bem-sucedida decide escrever seu obituário dizendo seus grandes feitos. Para isso ela contrata uma jornalista, Anne Sherman. Mas Harriet não fica satisfeita com o rascunho e resolve partir numa grande aventura para reescrever sua história de vida.(n)</desc>
+  </programme>
+  <programme start="20210324195000 +0000" stop="20210324204000 +0000" channel="Globo Brasília">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Helena diz a Pedro que Iris a ama.(n)</desc>
+  </programme>
+  <programme start="20210324204000 +0000" stop="20210324211000 +0000" channel="Globo Brasília">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Pedro consegue fazer Karina sorrir e cobra seu dinheiro de Bianca.(n)</desc>
+  </programme>
+  <programme start="20210324211000 +0000" stop="20210324215000 +0000" channel="Globo Brasília">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Eva expulsa Manuela e Júlia de casa.(n)</desc>
+  </programme>
+  <programme start="20210324215000 +0000" stop="20210324222000 +0000" channel="Globo Brasília">
+    <title lang="pt">DF2</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210324222000 +0000" stop="20210324230000 +0000" channel="Globo Brasília">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Na procura por Renzo, Alexia, Luna e Kyra testemunham Dominique atirar contra Vitório.(n)</desc>
+  </programme>
+  <programme start="20210324230000 +0000" stop="20210324233500 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210324233500 +0000" stop="20210325002000 +0000" channel="Globo Brasília">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes confronta Thelma.(n)</desc>
+  </programme>
+  <programme start="20210325002000 +0000" stop="20210325024500 +0000" channel="Globo Brasília">
+    <title lang="pt">Cinema Especial</title>
+  </programme>
+  <programme start="20210325024500 +0000" stop="20210325031000 +0000" channel="Globo Brasília">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210325031000 +0000" stop="20210325040000 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210325040000 +0000" stop="20210325044000 +0000" channel="Globo Brasília">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20210325044000 +0000" stop="20210325055000 +0000" channel="Globo Brasília">
+    <title lang="pt">Corujão I - Dentro do Labirinto Cinzento</title>
+    <title lang="en">Into The Grizzly Maze</title>
+    <desc lang="pt">Após muito tempo, dois irmãos distantes de reencontram no Alaska, local onde viveram durante a infância. Os dois decidem fazer uma aventura e saem para uma caminha de dois dias na floresta. No meio do caminho, eles encontram um urso pardo gigante que decide caçá-los.(n)</desc>
+  </programme>
+  <programme start="20210325055000 +0000" stop="20210325070000 +0000" channel="Globo Brasília">
+    <title lang="pt">Corujão II - Vai Que Dá Certo 2</title>
+    <title lang="en">Vai Que Dá Certo 2</title>
+    <desc lang="pt">Como os primeiros planos de enriquecer não deram certo, Rodrigo, Tonico e Amaral ainda precisam de dinheiro. Eles encontram um vídeo com cenas comprometedoras de Elói e tentam chantageá-lo, mas os planos não funcionam como planejado. Até porque uma prima nada confiável e uma dupla de policiais corruptos também está interessada em faturar com essa história.(n)</desc>
+  </programme>
+  <programme start="20210325070000 +0000" stop="20210325090000 +0000" channel="Globo Brasília">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210325090000 +0000" stop="20210325113000 +0000" channel="Globo Brasília">
+    <title lang="pt">Bom Dia DF</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia DF, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210325113000 +0000" stop="20210325123000 +0000" channel="Globo Brasília">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210325123000 +0000" stop="20210325134500 +0000" channel="Globo Brasília">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210325134500 +0000" stop="20210325150000 +0000" channel="Globo Brasília">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210325150000 +0000" stop="20210325160000 +0000" channel="Globo Brasília">
+    <title lang="pt">DF1</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210325160000 +0000" stop="20210325162500 +0000" channel="Globo Brasília">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210325162500 +0000" stop="20210325180000 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210325180000 +0000" stop="20210325195000 +0000" channel="Globo Brasília">
+    <title lang="pt">Sessão da Tarde - O Último Mestre Do Ar</title>
+    <title lang="en">The Last Airbender</title>
+    <desc lang="pt">A Nação do Fogo está em guerra com as Nações da Água, do Ar e da Terra porque pretende dominar o mundo. O conflito já dura um século e não há a menor previsão de quando chegará ao fim. Somente o aparecimento de um Avatar, único capaz de controlar os quatro elementos, poderá ajudar a restabelecer o equilíbrio.(n)</desc>
+  </programme>
+  <programme start="20210325195000 +0000" stop="20210325210000 +0000" channel="Globo Brasília">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Capitu e Fred se beijam.(n)</desc>
+  </programme>
+  <programme start="20210325210000 +0000" stop="20210325213000 +0000" channel="Globo Brasília">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Dalva garante a Duca que Alan está morto.(n)</desc>
+  </programme>
+  <programme start="20210325213000 +0000" stop="20210325221500 +0000" channel="Globo Brasília">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Eva humilha Manuela, que pede apoio à Iná.(n)</desc>
+  </programme>
+  <programme start="20210325221500 +0000" stop="20210325224500 +0000" channel="Globo Brasília">
+    <title lang="pt">DF2</title>
+    <desc lang="pt">Telejornal local que mostra as notícias de cada estado. Em pauta a notícia da cidade, prestação de serviço, situação do trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210325224500 +0000" stop="20210325233000 +0000" channel="Globo Brasília">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Renzo provoca um acidente com o carro, e Alexia, Kyra e Luna conseguem fugir.(n)</desc>
+  </programme>
+  <programme start="20210325233000 +0000" stop="20210326004000 +0000" channel="Globo Brasília">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210322014000 +0000" stop="20210322023500 +0000" channel="Globo Minas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Formação de Paredão Triplo, com indicação do Líder Gil.(n)</desc>
+  </programme>
+  <programme start="20210322023500 +0000" stop="20210322041500 +0000" channel="Globo Minas">
+    <title lang="pt">Domingo Maior - Batalha Dos Impérios</title>
+    <title lang="en">Tian Jiang Xiong Shi</title>
+    <desc lang="pt">No ano 48 A.C., soldados romanos perdidos peregrinam pela China para encontrar seu caminho. Enquanto isso, o comandante chinês Huo An é tomado por forças que o escravizam.(n)</desc>
+  </programme>
+  <programme start="20210322041500 +0000" stop="20210322055500 +0000" channel="Globo Minas">
+    <title lang="pt">Cinemaço - Fúria Sobre Rodas</title>
+    <title lang="en">Drive Angry</title>
+    <desc lang="pt">Milton se envolveu com pessoas erradas no passado, foi parar no inferno e acabou tendo sua filha assassinada. Agora, sua neta está das mãos do líder da mesma seita satânica. Chegou a hora de Milton retornar do mundo das trevas para tentar salvá-la e, quem sabe, ter a sua redenção. Em sua jornada para descobrir o paradeiro da criança ele conhece Piper, uma garçonete boa de briga e em busca de aventura. Era o que ele precisava para enfrentar seus inimigos e ainda driblar o Contador, um fiel súdito do diabo disposto a tudo para levá-lo de volta para o príncipe da escuridão.(n)</desc>
+  </programme>
+  <programme start="20210322055500 +0000" stop="20210322070000 +0000" channel="Globo Minas">
+    <title lang="pt">Corujão I - Sequestro Relâmpago</title>
+    <title lang="en">Sequestro Relâmpago</title>
+    <desc lang="pt">Matheus e Japonês são dois jovens que não são amigos, mas que se juntam para realizar uma série de sequestros na noite de São Paulo. A primeira vítima é Isabel, uma jovem de 21 anos que está saindo de um bar. Os três estão nervosos. Quando encontram o primeiro caixa eletrônico, às 22h, ele está quebrado. Os dois percebem que não conseguirão encontrar outro caixa-eletrônico antes da manhã do dia seguinte. Mantendo Isabel refém, eles dirigem de um lado pro outro pela noite, decidindo o que fazer com ela.(n)</desc>
+  </programme>
+  <programme start="20210322070000 +0000" stop="20210322090000 +0000" channel="Globo Minas">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210322090000 +0000" stop="20210322113000 +0000" channel="Globo Minas">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Liliana Junger apresenta as primeiras noticias da manhã em todo o estado.(n)</desc>
+  </programme>
+  <programme start="20210322113000 +0000" stop="20210322123000 +0000" channel="Globo Minas">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210322123000 +0000" stop="20210322134500 +0000" channel="Globo Minas">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210322134500 +0000" stop="20210322150000 +0000" channel="Globo Minas">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210322150000 +0000" stop="20210322160000 +0000" channel="Globo Minas">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+  </programme>
+  <programme start="20210322160000 +0000" stop="20210322162500 +0000" channel="Globo Minas">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210322162500 +0000" stop="20210322180000 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210322180000 +0000" stop="20210322194000 +0000" channel="Globo Minas">
+    <title lang="pt">Sessão da Tarde - Noites De Tormenta</title>
+    <title lang="en">Nights in Rodanthe</title>
+    <desc lang="pt">Sofrendo com problemas familiares, Adrienne Willis busca refúgio numa pequena cidade litorânea da Carolina do Norte. Hospedada na pousada de uma amiga, ela conhece Paul Flanner, um médico que está enfrentando uma crise de consciência. Quando uma violenta tempestade se aproxima do local, Adrienne e Paul começam um romance que mudará para sempre suas vidas.(n)</desc>
+  </programme>
+  <programme start="20210322194000 +0000" stop="20210322205500 +0000" channel="Globo Minas">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Iris faz doação de sangue na tentativa de salvar Camila.(n)</desc>
+  </programme>
+  <programme start="20210322205500 +0000" stop="20210322212500 +0000" channel="Globo Minas">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Pedro faz serenata para Karina e leva balde d'água na cabeça.(n)</desc>
+  </programme>
+  <programme start="20210322212500 +0000" stop="20210322221000 +0000" channel="Globo Minas">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">Manuela conta para Rodrigo que ele é o pai de Júlia.(n)</desc>
+  </programme>
+  <programme start="20210322221000 +0000" stop="20210322224000 +0000" channel="Globo Minas">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210322224000 +0000" stop="20210322233000 +0000" channel="Globo Minas">
+    <title lang="pt">Salve-Se Quem Puder</title>
+    <desc lang="pt">Um furacão arrasa Cancún e coloca em risco a vida de Alexia (Deborah Secco), Kyra (Vitória Strada) e Luna (Juliana Paiva).(n)</desc>
+  </programme>
+  <programme start="20210322233000 +0000" stop="20210323002500 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210323002500 +0000" stop="20210323013500 +0000" channel="Globo Minas">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Lurdes avisa a Danilo que Camila foi atropelada.(n)</desc>
+  </programme>
+  <programme start="20210323013500 +0000" stop="20210323024000 +0000" channel="Globo Minas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210323024000 +0000" stop="20210323041000 +0000" channel="Globo Minas">
+    <title lang="pt">Tela Quente - O Falcão Manteiga de Amendoim</title>
+    <title lang="en">Peanut Butter Falcon</title>
+    <desc lang="pt">Zak, um rapaz com síndrome de down, decide fugir da casa de acolhimento onde vive e aventurar-se no mundo, determinado a inscrever-se numa escola profissional de luta livre. É assim que conhece Tyler, um fora-da-lei de bom coração que o acolhe e quer ajudá-lo a concretizar o seu sonho. A sua cumplicidade vai conquistar Eleanor, uma jovem que larga tudo e para os acompanhar na aventura.(n)</desc>
+  </programme>
+  <programme start="20210323041000 +0000" stop="20210323050000 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210323050000 +0000" stop="20210323054000 +0000" channel="Globo Minas">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20210323054000 +0000" stop="20210323070000 +0000" channel="Globo Minas">
+    <title lang="pt">Corujão I - Homens De Bem</title>
+    <title lang="en">Homens de Bem</title>
+    <desc lang="pt">Ciba é um espião que sempre encontra soluções inteligentes para os seus casos. A pedido de um delegado, ele irá bolar um esquema para prender um empresário que pretende subornar um deputado federal. Para colocar o plano em ação, sem que ninguém desconfie da sua ligação com a justiça, ele terá que usar toda sua esperteza e habilidade.(n)</desc>
+  </programme>
+  <programme start="20210323070000 +0000" stop="20210323090000 +0000" channel="Globo Minas">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210323090000 +0000" stop="20210323113000 +0000" channel="Globo Minas">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Liliana Junger apresenta as primeiras noticias da manhã em todo o estado.(n)</desc>
+  </programme>
+  <programme start="20210323113000 +0000" stop="20210323123000 +0000" channel="Globo Minas">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210323123000 +0000" stop="20210323134500 +0000" channel="Globo Minas">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210323134500 +0000" stop="20210323150000 +0000" channel="Globo Minas">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210323150000 +0000" stop="20210323160000 +0000" channel="Globo Minas">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+  </programme>
+  <programme start="20210323160000 +0000" stop="20210323162500 +0000" channel="Globo Minas">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210323162500 +0000" stop="20210323180000 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210323180000 +0000" stop="20210323194500 +0000" channel="Globo Minas">
+    <title lang="pt">Sessão da Tarde - O Melhor Amigo Da Noiva</title>
+    <title lang="en">Made of Honor</title>
+    <desc lang="pt">Tom é um homem bem sucedido que descobre ser apaixonado por sua melhor amiga, Hannah, quando ela viaja a negócios para a Escócia. Decidido a pedi-la em casamento assim que retorne de viagem, Tom é surpreendido quando ela volta noiva de um belo e rico escocês. Chamado para ser a “madrinha” do casamento, ele reluta, mas aceita o convite. Seu objetivo agora é impedir que o casamento de Hannah aconteça e tentar conquistá-la de uma vez por todas.(n)</desc>
+  </programme>
+  <programme start="20210323194500 +0000" stop="20210323210000 +0000" channel="Globo Minas">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210323210000 +0000" stop="20210323213000 +0000" channel="Globo Minas">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210323213000 +0000" stop="20210323221500 +0000" channel="Globo Minas">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210323221500 +0000" stop="20210323224500 +0000" channel="Globo Minas">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210323224500 +0000" stop="20210323233000 +0000" channel="Globo Minas">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210323233000 +0000" stop="20210324004000 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210324004000 +0000" stop="20210324020000 +0000" channel="Globo Minas">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Escrita por Manuela Dias e com direção artística de José Luiz Villamarim, 'Amor de Mãe' apresenta as histórias de Lurdes, Thelma e Vitória, três mulheres com diferentes trajetórias que se reconhecem no amor pelos filhos.(n)</desc>
+  </programme>
+  <programme start="20210324020000 +0000" stop="20210324030000 +0000" channel="Globo Minas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210324030000 +0000" stop="20210324033000 +0000" channel="Globo Minas">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">A série faz uma homenagem à obra do autor, diretor e dramaturgo Domingos Oliveira. Adaptada aos dias de hoje, a história traz reflexões filosóficas sobre a vida, o amor e a morte com um humor inteligente e refinado.(n)</desc>
+  </programme>
+  <programme start="20210324033000 +0000" stop="20210324041000 +0000" channel="Globo Minas">
+    <title lang="pt">Profissão Repórter</title>
+    <desc lang="pt">Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.(n)</desc>
+  </programme>
+  <programme start="20210324041000 +0000" stop="20210324050000 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210324050000 +0000" stop="20210324054000 +0000" channel="Globo Minas">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20210324054000 +0000" stop="20210324070000 +0000" channel="Globo Minas">
+    <title lang="pt">Corujão I - O Atirador - Apontando Para a Morte</title>
+    <title lang="en">The Marksman</title>
+    <desc lang="pt">O atirador tem como missão resgatar uma planta de usina nuclear da Chechenia antes que terroristas acionem um reator atômico. Ao chegar ao local, ele indica o alvo para que um míssil norte-americano o destrua. Mas, quando descobre que o míssil é que acionará o reator, ele percebe que foi enganado e precisa agir rápido para evitar a morte de milhões de pessoas.(n)</desc>
+  </programme>
+  <programme start="20210324070000 +0000" stop="20210324090000 +0000" channel="Globo Minas">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210324090000 +0000" stop="20210324113000 +0000" channel="Globo Minas">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Liliana Junger apresenta as primeiras noticias da manhã em todo o estado.(n)</desc>
+  </programme>
+  <programme start="20210324113000 +0000" stop="20210324123000 +0000" channel="Globo Minas">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210324123000 +0000" stop="20210324134500 +0000" channel="Globo Minas">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210324134500 +0000" stop="20210324150000 +0000" channel="Globo Minas">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210324150000 +0000" stop="20210324160000 +0000" channel="Globo Minas">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+  </programme>
+  <programme start="20210324160000 +0000" stop="20210324162500 +0000" channel="Globo Minas">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210324162500 +0000" stop="20210324180000 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210324180000 +0000" stop="20210324195000 +0000" channel="Globo Minas">
+    <title lang="pt">Sessão da Tarde - A Última Palavra</title>
+    <title lang="en">The Last Word</title>
+    <desc lang="pt">Uma mulher de negócios bem-sucedida decide escrever seu obituário dizendo seus grandes feitos. Para isso ela contrata uma jornalista, Anne Sherman. Mas Harriet não fica satisfeita com o rascunho e resolve partir numa grande aventura para reescrever sua história de vida.(n)</desc>
+  </programme>
+  <programme start="20210324195000 +0000" stop="20210324204000 +0000" channel="Globo Minas">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210324204000 +0000" stop="20210324211000 +0000" channel="Globo Minas">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210324211000 +0000" stop="20210324215000 +0000" channel="Globo Minas">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210324215000 +0000" stop="20210324222000 +0000" channel="Globo Minas">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210324222000 +0000" stop="20210324230000 +0000" channel="Globo Minas">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210324230000 +0000" stop="20210324233500 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210324233500 +0000" stop="20210325002000 +0000" channel="Globo Minas">
+    <title lang="pt">Amor de Mãe</title>
+    <desc lang="pt">Escrita por Manuela Dias e com direção artística de José Luiz Villamarim, 'Amor de Mãe' apresenta as histórias de Lurdes, Thelma e Vitória, três mulheres com diferentes trajetórias que se reconhecem no amor pelos filhos.(n)</desc>
+  </programme>
+  <programme start="20210325002000 +0000" stop="20210325024500 +0000" channel="Globo Minas">
+    <title lang="pt">Cinema Especial</title>
+  </programme>
+  <programme start="20210325024500 +0000" stop="20210325031000 +0000" channel="Globo Minas">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Tiago Leifert comanda os participantes da histórica 21ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20210325031000 +0000" stop="20210325040000 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210325040000 +0000" stop="20210325044000 +0000" channel="Globo Minas">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20210325044000 +0000" stop="20210325055000 +0000" channel="Globo Minas">
+    <title lang="pt">Corujão I - Dentro do Labirinto Cinzento</title>
+    <title lang="en">Into The Grizzly Maze</title>
+    <desc lang="pt">Após muito tempo, dois irmãos distantes de reencontram no Alaska, local onde viveram durante a infância. Os dois decidem fazer uma aventura e saem para uma caminha de dois dias na floresta. No meio do caminho, eles encontram um urso pardo gigante que decide caçá-los.(n)</desc>
+  </programme>
+  <programme start="20210325055000 +0000" stop="20210325070000 +0000" channel="Globo Minas">
+    <title lang="pt">Corujão II - Vai Que Dá Certo 2</title>
+    <title lang="en">Vai Que Dá Certo 2</title>
+    <desc lang="pt">Como os primeiros planos de enriquecer não deram certo, Rodrigo, Tonico e Amaral ainda precisam de dinheiro. Eles encontram um vídeo com cenas comprometedoras de Elói e tentam chantageá-lo, mas os planos não funcionam como planejado. Até porque uma prima nada confiável e uma dupla de policiais corruptos também está interessada em faturar com essa história.(n)</desc>
+  </programme>
+  <programme start="20210325070000 +0000" stop="20210325090000 +0000" channel="Globo Minas">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210325090000 +0000" stop="20210325113000 +0000" channel="Globo Minas">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Liliana Junger apresenta as primeiras noticias da manhã em todo o estado.(n)</desc>
+  </programme>
+  <programme start="20210325113000 +0000" stop="20210325123000 +0000" channel="Globo Minas">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210325123000 +0000" stop="20210325134500 +0000" channel="Globo Minas">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210325134500 +0000" stop="20210325150000 +0000" channel="Globo Minas">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210325150000 +0000" stop="20210325160000 +0000" channel="Globo Minas">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+  </programme>
+  <programme start="20210325160000 +0000" stop="20210325162500 +0000" channel="Globo Minas">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210325162500 +0000" stop="20210325180000 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210325180000 +0000" stop="20210325195000 +0000" channel="Globo Minas">
+    <title lang="pt">Sessão da Tarde - O Último Mestre Do Ar</title>
+    <title lang="en">The Last Airbender</title>
+    <desc lang="pt">A Nação do Fogo está em guerra com as Nações da Água, do Ar e da Terra porque pretende dominar o mundo. O conflito já dura um século e não há a menor previsão de quando chegará ao fim. Somente o aparecimento de um Avatar, único capaz de controlar os quatro elementos, poderá ajudar a restabelecer o equilíbrio.(n)</desc>
+  </programme>
+  <programme start="20210325195000 +0000" stop="20210325210000 +0000" channel="Globo Minas">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210325210000 +0000" stop="20210325213000 +0000" channel="Globo Minas">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210325213000 +0000" stop="20210325221500 +0000" channel="Globo Minas">
+    <title lang="pt">A Vida da Gente</title>
+    <desc lang="pt">A Vida da Gente é a história de amor, conexão e afeto de Ana, Manu e Rodrigo. A trama, cheia de emoção, traz à tona situações e experiências que instigam a reflexão sobre as escolhas que fazemos ao longo da vida.(n)</desc>
+  </programme>
+  <programme start="20210325221500 +0000" stop="20210325224500 +0000" channel="Globo Minas">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210325224500 +0000" stop="20210325233000 +0000" channel="Globo Minas">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210325233000 +0000" stop="20210326004000 +0000" channel="Globo Minas">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+</tv>
