@@ -1493,7 +1493,7 @@ http://tv.minhalista.me/live/Luc2710/l123456/68105.m3u8
 http://tv.minhalista.me/live/Luc2710/l123456/37085.m3u8
 #EXTINF:-1 tvg-id="HBO Family FHD" tvg-name="HBO Family FHD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Full HD",HBO Family FHD
 http://tv.minhalista.me/live/Luc2710/l123456/41486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family HD
 http://tv.minhalista.me/live/Luc2710/l123456/36965.m3u8
 #EXTINF:-1 tvg-id="HBO Family | Dual Audio" tvg-name="HBO Family | Dual Audio" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Dual Audio",HBO Family | Dual Audio
 http://tv.minhalista.me/live/Luc2710/l123456/63308.m3u8
