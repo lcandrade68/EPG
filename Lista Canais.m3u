@@ -1465,7 +1465,7 @@ http://tv.minhalista.me/live/Luc2710/l123456/51245.m3u8
 http://tv.minhalista.me/live/Luc2710/l123456/50786.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H2 [ALT]" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Alternativos",H2 [ALT]
 http://tv.minhalista.me/live/Luc2710/l123456/50787.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
 http://tv.minhalista.me/live/Luc2710/l123456/65114.m3u8
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2
 http://tv.minhalista.me/live/Luc2710/l123456/37086.m3u8
@@ -1493,13 +1493,13 @@ http://tv.minhalista.me/live/Luc2710/l123456/68105.m3u8
 http://tv.minhalista.me/live/Luc2710/l123456/37085.m3u8
 #EXTINF:-1 tvg-id="HBO Family FHD" tvg-name="HBO Family FHD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Full HD",HBO Family FHD
 http://tv.minhalista.me/live/Luc2710/l123456/41486.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Filmes e Series",HBO Family HD
 http://tv.minhalista.me/live/Luc2710/l123456/36965.m3u8
 #EXTINF:-1 tvg-id="HBO Family | Dual Audio" tvg-name="HBO Family | Dual Audio" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Dual Audio",HBO Family | Dual Audio
 http://tv.minhalista.me/live/Luc2710/l123456/63308.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",HBO H265
 http://tv.minhalista.me/live/Luc2710/l123456/62848.m3u8
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO HD
 http://tv.minhalista.me/live/Luc2710/l123456/36964.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD LEG" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Legendados",HBO HD LEG
 http://tv.minhalista.me/live/Luc2710/l123456/56844.m3u8
