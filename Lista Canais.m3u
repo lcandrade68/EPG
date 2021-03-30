@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MDO" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",MDO
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&amp;E
 http://tv.minhalista.me/live/Luc2710/l123456/37130.m3u8
-#EXTINF:-1 tvg-id="MDO" tvg-name="A&E FHD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Full HD",MDO
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E FHD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Full HD",A&E FHD
 http://tv.minhalista.me/live/Luc2710/l123456/40263.m3u8
-#EXTINF:-1 tvg-id="MDO" tvg-name="A&E H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",MDO
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",A&E H265
 http://tv.minhalista.me/live/Luc2710/l123456/62889.m3u8
-#EXTINF:-1 tvg-id="MDO" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",MDO
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E HD
 http://tv.minhalista.me/live/Luc2710/l123456/36929.m3u8
-#EXTINF:-1 tvg-id="MDO" tvg-name="A&E HD [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",MDO
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E HD [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E HD [ALT]
 http://tv.minhalista.me/live/Luc2710/l123456/50614.m3u8
-#EXTINF:-1 tvg-id="MDO" tvg-name="A&E [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",MDO
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E [ALT]" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Alternativos",A&E | Dual Áudi
 http://tv.minhalista.me/live/Luc2710/l123456/50628.m3u8
-#EXTINF:-1 tvg-id="MDO" tvg-name="A&E | Dual Áudio" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Dual Audio",MDO
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E | Dual Áudio" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Dual Audio",MDO
 http://tv.minhalista.me/live/Luc2710/l123456/63257.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Filmes e Series",AMC
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="AMC" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Filmes e Series",AMC
 http://tv.minhalista.me/live/Luc2710/l123456/41087.m3u8
 #EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Full HD",AMC FHD
 https://youtu.be/3cTkYGyhel0
